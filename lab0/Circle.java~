@@ -1,0 +1,18 @@
+class Circle{
+	Point centre;
+	double radius = 0;
+
+	public Circle(Point centre, double radius){
+		this.centre = centre;
+		this.radius = radius;
+	}
+
+	public getCircle(Circle circle, double centre){
+		
+	}
+
+	public createCircle(Point point1, Point point2, double radius){
+		
+	}
+
+}
